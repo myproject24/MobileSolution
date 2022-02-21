@@ -1,2 +1,2 @@
-# oganesson
-HOME  | ABOUT |  SERVICES |  TESTIMONIAL | GALLERY |  WORK |  CONTACT  | Animated harmburger mobile  menu 
+# Sinle page website
+HOME  | ABOUT |  CONTACT  | Animated harmburger mobile  menu 
